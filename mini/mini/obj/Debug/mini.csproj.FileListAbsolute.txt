@@ -1,0 +1,268 @@
+C:\Users\Dell\source\repos\mini\mini\bin\Debug\mini.exe.config
+C:\Users\Dell\source\repos\mini\mini\bin\Debug\mini.exe
+C:\Users\Dell\source\repos\mini\mini\bin\Debug\mini.pdb
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.Form1.resources
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.exe
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.pdb
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.Form2.resources
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.Form3.resources
+C:\Users\Dell\source\repos\mini\mini\obj\Debug\mini.Form4.resources
+C:\Users\Asus\OneDrive\Desktop\mini\mini\bin\Debug\mini.exe.config
+C:\Users\Asus\OneDrive\Desktop\mini\mini\bin\Debug\mini.exe
+C:\Users\Asus\OneDrive\Desktop\mini\mini\bin\Debug\mini.pdb
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.Form2.resources
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.Form3.resources
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.Form4.resources
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.Form5.resources
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.exe
+C:\Users\Asus\OneDrive\Desktop\mini\mini\obj\Debug\mini.pdb
+C:\Users\Dell\Desktop\mini\mini\bin\Debug\mini.exe.config
+C:\Users\Dell\Desktop\mini\mini\bin\Debug\mini.exe
+C:\Users\Dell\Desktop\mini\mini\bin\Debug\mini.pdb
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.Form1.resources
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.Form2.resources
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.Form3.resources
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.Form4.resources
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.Form5.resources
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.exe
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.pdb
+C:\Users\Dell\Desktop\mini\mini\obj\Debug\mini.Form6.resources
+C:\Users\hp\Desktop\mini\mini\bin\Debug\mini.exe.config
+C:\Users\hp\Desktop\mini\mini\bin\Debug\mini.exe
+C:\Users\hp\Desktop\mini\mini\bin\Debug\mini.pdb
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.Form1.resources
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.Form2.resources
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.Form3.resources
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.Form4.resources
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.Form5.resources
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.Form6.resources
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.exe
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.pdb
+C:\Users\hp\Desktop\mini\mini\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\mini\mini\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\mini\mini\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\mini\mini\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\mini\mini\obj\Debug\mini.Form7.resources
+C:\miniGame\mini\bin\Debug\mini.exe.config
+C:\miniGame\mini\bin\Debug\mini.exe
+C:\miniGame\mini\bin\Debug\mini.pdb
+C:\miniGame\mini\bin\Debug\Interop.WMPLib.dll
+C:\miniGame\mini\bin\Debug\AxInterop.WMPLib.dll
+C:\miniGame\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\miniGame\mini\obj\Debug\Interop.WMPLib.dll
+C:\miniGame\mini\obj\Debug\AxInterop.WMPLib.dll
+C:\miniGame\mini\obj\Debug\mini.csproj.ResolveComReference.cache
+C:\miniGame\mini\obj\Debug\mini.Form1.resources
+C:\miniGame\mini\obj\Debug\mini.Form2.resources
+C:\miniGame\mini\obj\Debug\mini.Form3.resources
+C:\miniGame\mini\obj\Debug\mini.Form4.resources
+C:\miniGame\mini\obj\Debug\mini.Form5.resources
+C:\miniGame\mini\obj\Debug\mini.Form6.resources
+C:\miniGame\mini\obj\Debug\mini.Form7.resources
+C:\miniGame\mini\obj\Debug\mini.Properties.Resources.resources
+C:\miniGame\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\miniGame\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\miniGame\mini\obj\Debug\mini.exe
+C:\miniGame\mini\obj\Debug\mini.pdb
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\bin\Debug\mini.exe.config
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\bin\Debug\mini.exe
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\bin\Debug\mini.pdb
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.csproj.ResolveComReference.cache
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.Form1.resources
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.Form2.resources
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.Form3.resources
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.Form4.resources
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.Form5.resources
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.Form6.resources
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.Form7.resources
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.exe
+C:\Users\hp\Downloads\Telegram Desktop\C#game\miniGame\mini\obj\Debug\mini.pdb
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\bin\Debug\mini.exe.config
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\bin\Debug\mini.exe
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\bin\Debug\mini.pdb
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.csproj.ResolveComReference.cache
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.exe
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.pdb
+C:\Users\hp\Desktop\HW2\miniGame\mini\bin\Debug\mini.exe.config
+C:\Users\hp\Desktop\HW2\miniGame\mini\bin\Debug\mini.exe
+C:\Users\hp\Desktop\HW2\miniGame\mini\bin\Debug\mini.pdb
+C:\Users\hp\Desktop\HW2\miniGame\mini\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\HW2\miniGame\mini\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.Form1.resources
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.Form2.resources
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.Form3.resources
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.Form4.resources
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.Form5.resources
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.Form6.resources
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.Form7.resources
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.exe
+C:\Users\hp\Desktop\HW2\miniGame\mini\obj\Debug\mini.pdb
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\bin\Debug\mini.exe.config
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\bin\Debug\mini.exe
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\bin\Debug\mini.pdb
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\bin\Debug\Interop.WMPLib.dll
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\Interop.WMPLib.dll
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.csproj.ResolveComReference.cache
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.Form1.resources
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.Form2.resources
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.Form3.resources
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.Form4.resources
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.Form5.resources
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.Form6.resources
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.Form7.resources
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.exe
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.pdb
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.Form1.resources
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.Form2.resources
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.Form3.resources
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.Form4.resources
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.Form5.resources
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.Form6.resources
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.Form7.resources
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.exe
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.pdb
+C:\Users\hp\Desktop\script\miniGame\mini\bin\Debug\mini.exe.config
+C:\Users\hp\Desktop\script\miniGame\mini\bin\Debug\mini.exe
+C:\Users\hp\Desktop\script\miniGame\mini\bin\Debug\mini.pdb
+C:\Users\hp\Desktop\script\miniGame\mini\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\script\miniGame\mini\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\script\miniGame\mini\obj\Debug\mini.Form8.resources
+C:\Users\THINKPAD\OneDrive - just.edu.jo\Desktop\miniGame\mini\obj\Debug\mini.Form8.resources
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.StartPage.resources
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.NewGame.resources
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.CreatePro.resources
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.Statistics.resources
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.Current.resources
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.History.resources
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.Level1.resources
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.Level2.resources
+C:\Users\Asus\OneDrive\Desktop\miniGame\mini\obj\Debug\mini.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\Game\miniGame\mini\bin\Debug\mini.exe.config
+C:\Users\hp\Downloads\Game\miniGame\mini\bin\Debug\mini.exe
+C:\Users\hp\Downloads\Game\miniGame\mini\bin\Debug\mini.pdb
+C:\Users\hp\Downloads\Game\miniGame\mini\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Downloads\Game\miniGame\mini\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.csproj.ResolveComReference.cache
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.StartPage.resources
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.NewGame.resources
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.CreatePro.resources
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.Statistics.resources
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.Current.resources
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.History.resources
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.Level1.resources
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.Level2.resources
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.exe
+C:\Users\hp\Downloads\Game\miniGame\mini\obj\Debug\mini.pdb
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\bin\Debug\mini.exe.config
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\bin\Debug\mini.exe
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\bin\Debug\mini.pdb
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\bin\Debug\Interop.WMPLib.dll
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\Interop.WMPLib.dll
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.csproj.ResolveComReference.cache
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.StartPage.resources
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.NewGame.resources
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.CreatePro.resources
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.Statistics.resources
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.Current.resources
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.History.resources
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.Level1.resources
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.Level2.resources
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.exe
+C:\Users\THINKPAD\Downloads\Telegram Desktop\miniGameLastVersion1.2\miniGameLastVersion1.2\miniGame\mini\obj\Debug\mini.pdb
+C:\Users\hp\Downloads\miniGame\mini\bin\Debug\mini.exe.config
+C:\Users\hp\Downloads\miniGame\mini\bin\Debug\mini.exe
+C:\Users\hp\Downloads\miniGame\mini\bin\Debug\mini.pdb
+C:\Users\hp\Downloads\miniGame\mini\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Downloads\miniGame\mini\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.csproj.ResolveComReference.cache
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.StartPage.resources
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.NewGame.resources
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.CreatePro.resources
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.Statistics.resources
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.Current.resources
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.History.resources
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.Level1.resources
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.Level2.resources
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.Properties.Resources.resources
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.exe
+C:\Users\hp\Downloads\miniGame\mini\obj\Debug\mini.pdb
